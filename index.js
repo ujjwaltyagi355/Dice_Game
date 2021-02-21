@@ -13,15 +13,15 @@ document.querySelectorAll("img")[1].setAttribute("src", randomDiceImage);
 
 /*If Player A Wins*/
 if(randomNumber1 > randomNumber2){
-  document.querySelector("h1").innerHTML="🥳 Player 1 Wins!!";
+  document.querySelector(".container h1").innerHTML="🥳 Player 1 Wins!!";
 }
 
 /*If Player 2 Wins*/
 else if(randomNumber1 < randomNumber2){
-  document.querySelector("h1").innerHTML="Player 2 Wins!! 🥳";
+  document.querySelector(".container h1").innerHTML="Player 2 Wins!! 🥳";
 }
 
 /*If It's a Draw*/
 else{
-  document.querySelector("h1").innerHTML="It's A Draw!";
+  document.querySelector(".container h1").innerHTML="It's A Draw!";
 }
