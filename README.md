@@ -10,13 +10,14 @@ https://ujjwaltyagi355.github.io/Dice_Game/
 
 
 ## Screen Shots:
-![image](https://user-images.githubusercontent.com/61249902/109503261-0cae6f80-7ac0-11eb-8444-ba0a6f75aa5e.png)
+![image](https://user-images.githubusercontent.com/61249902/109504487-99a5f880-7ac1-11eb-85dc-bbd942bcbff7.png)
 
 
-![image](https://user-images.githubusercontent.com/61249902/109503286-1506aa80-7ac0-11eb-8dcf-9779701117c0.png)
+![image](https://user-images.githubusercontent.com/61249902/109504584-b5a99a00-7ac1-11eb-9f70-18c2fa0fe6fa.png)
 
 
-![image](https://user-images.githubusercontent.com/61249902/109503321-218b0300-7ac0-11eb-91c0-fc3120b23f3e.png)
+![image](https://user-images.githubusercontent.com/61249902/109504426-87c45580-7ac1-11eb-8998-91c799c32b20.png)
+
 
 
 ## Code Base:
